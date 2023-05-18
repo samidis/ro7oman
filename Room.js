@@ -60,7 +60,7 @@ margin-top: 12% !important;}
 
 
 
-     var rid='18698032f5ax4f9097b4-x-49koaf';
+     var rid='1882faca93fx28bc36b4xc4ewcq';
 
  $(`<style>#mic.rsauud .mic {
         border: 2px solid;
@@ -192,7 +192,7 @@ box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000}
      
     var roomrsauudtest = false;
     setInterval(function () {
-        if (myroom == '18698032f5ax4f9097b4-x-49koaf') {
+        if (myroom == '1882faca93fx28bc36b4xc4ewcq') {
             if (roomrsauudtest == false) {
                 roomrsauudtest = true;
               $('#users').addClass('rsauud');
