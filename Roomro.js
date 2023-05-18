@@ -9,7 +9,7 @@ margin-top: 12% !important;}
     .nosel.d-flex.room.r1882faca93fx28bc36b4xc4ewcq {
     border-radius: 0px 15px 15px 15px;
     display: inline-block;
-    background-image: url(https://up6.cc/2023/05/168443164706632.gif);
+    background-image: url(https://up6.cc/2023/05/168443340034821.gif);
 	background-size: 100%;
 	padding: 5px !important;
     }
