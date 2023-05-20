@@ -96,7 +96,7 @@ var me_user1=setInterval(function(){
         clearInterval(me_user1);
         $("#users .uzr:contains('kinj')").addClass('stl1');
         $("#users .uzr.stl1 .c-flex.fr").append('<img class="My_star1" src="https://i.ibb.co/5G9Ttb7/10.gif">');
-	$("#users .uzr.stl1 .c-flex.fr").append('<img class="My_tsor" src="https://up6.cc/2023/05/168458493778673.png">');
+	$("#users .uzr.stl1 .c-flex.fr").append('<img class="My_tsor" src="https://up6.cc/2023/05/168460659951461.png">');
 	$("#users .uzr.stl1 .c-flex.fr").after('<div id="my_mood1" class="label label-primary" style=" margin-bottom: 1px; display: inline-block;width: 100%;margin-top: 10px;height: 22px;cursor: pointer;border-radius: 50px;padding: 0px;background-image: linear-gradient(-225deg, #000 0%, #000 29%, #660404 67%, #000 100%);" href="https://www.ro7oman.com/"> شآإت روح عمان</div>');
         $("#users .uzr span.u-topic:contains('kinj')").after('<img id="mystory1" class="My_vedio1" title="ستوري" src="https://i.ibb.co/47VS4nY/image.png">');
     
