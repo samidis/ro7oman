@@ -211,9 +211,8 @@ background-size: 100%;
 }
 
 #users .uzr.shaghaf1 .u-topic {
--webkit-text-fill-color: transparent;
-  margin-left: 4px;
-margin-bottom: 33px !important;
+
+  margin-left: 0px;
 }
 
 #users .uzr.shaghaf1 .shaghaf_star1 {
