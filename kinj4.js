@@ -70,7 +70,7 @@ margin-top: 17px !important;
    
   
   border: 1px solid #fff;
- background-image: url(https://up6.cc/2023/06/168676035493931.png);
+ background-image: url(https://up6.cc/2023/06/168676071604461.png);
 background-size: 100%;
     
 }
