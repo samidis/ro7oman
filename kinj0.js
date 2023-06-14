@@ -86,7 +86,7 @@ background-size: 100%;
   margin-left: 0px;
 }
 
-#users .uzr.kinj .itarr_sigmaa {
+#users .uzr.kinj .My_star1 {
  width: 132px;
 height: 89px;
 margin-top: -53px;
